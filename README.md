@@ -1,2 +1,2 @@
 # Simple_processor
-TODO:pipeline
+For MIPS ISA
