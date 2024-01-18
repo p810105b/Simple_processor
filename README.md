@@ -10,7 +10,7 @@ This repository contains the final project based on the course "Computer Organiz
   
 - **MEM.v:** Responsible for controlling the access of input data.
   
-- **PATTERN.v:** Manages all data entering the processor, including instruction (inst) and instruction address (inst_addr).
+- **PATTERN.v:** Manages all data entering the processor, including instruction and instruction address.
   
 - **TESTBED.v:** The top-level testbench, responsible for reading test data from a text file and providing it to the Simple Processor for simulation.
 
